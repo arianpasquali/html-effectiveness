@@ -15,7 +15,7 @@ Every file is a single static `.html` with no build step, no dependencies, no se
 open index.html
 
 # Or any individual demo
-open 07-prototype-animation.html
+open templates/07-prototype-animation.html
 ```
 
 Optional: serve over HTTP if you want a clean URL bar.
@@ -27,18 +27,13 @@ python3 -m http.server 8000
 
 ## Layout
 
-| File | Category |
-|------|----------|
-| `index.html` | Gallery + intro |
-| `01`–`03` | Exploration & Planning |
-| `03`–`04` | Code Review & Understanding |
-| `05`–`06` | Design |
-| `07`–`08` | Prototyping |
-| `10`, `13` | Illustrations & Diagrams |
-| `09` | Decks |
-| `14`–`15` | Research & Learning |
-| `11`–`12` | Reports |
-| `18`–`20` | Custom Editing Interfaces |
+```
+index.html        Gallery + intro
+README.md
+templates/        Twenty self-contained demos
+```
+
+Demo categories (see `index.html`): Exploration, Code Review, Design, Prototyping, Diagrams, Decks, Research, Reports, Custom Editors.
 
 ## Requirements
 
