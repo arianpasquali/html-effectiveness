@@ -63,3 +63,12 @@ Restart Claude Code session. Trigger by asking for any artifact type:
 ## Requirements
 
 Modern browser. Nothing else. Skill install requires Claude Code.
+
+## Credits
+
+Original work by **Thariq Shihipar** ([@trq212](https://x.com/trq212)).
+
+- Original gallery: https://thariqs.github.io/html-effectiveness/
+- Author thread: https://x.com/trq212/status/2052809885763747935
+
+This repo packages demos as Claude Code skill.
